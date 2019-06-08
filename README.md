@@ -1,6 +1,8 @@
 
 # GIPHY api assignment
 
+# Topgyal Gurung
+
   1.Allow the user to enter any search term 
   
   2.Fetch a list of results from the GIPHY API
