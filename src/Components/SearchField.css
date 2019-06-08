@@ -1,0 +1,29 @@
+div{
+    text-align: center,
+}
+.header{
+    text-align: center;
+    padding: 20px;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
+#input{
+    text-align: center;
+    font-size: 25px;
+}
+
+#data{
+    /* align-content: center; */
+    text-align: center;
+}
+#text{
+    font-family: inherit;
+}
+button{
+    border-radius: 12px;
+    font-size: 20px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    color:brown;
+    cursor: pointer;
+}
