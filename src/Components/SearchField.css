@@ -10,9 +10,11 @@ div{
 }
 #input{
     text-align: center;
-    font-size: 25px;
+    font-size: 25px;   
 }
-
+h3{
+    text-align: center;
+}
 #data{
     /* align-content: center; */
     text-align: center;
@@ -20,10 +22,12 @@ div{
 #text{
     font-family: inherit;
 }
-button{
+button {
     border-radius: 12px;
     font-size: 20px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-    color:brown;
+    color:black;
     cursor: pointer;
-}
+    background-color: whitesmoke; 
+    color: black;
+  }

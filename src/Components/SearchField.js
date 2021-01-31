@@ -23,8 +23,9 @@ class SearchField extends Component{
         return(
         <div>
             <h1 className="header">GIPHY SEARCH </h1>
-            <div id="input">
-                 <input id="input" value={this.state.result} onChange={this.handleChange} /><br/>
+            <h3> Type any giphy and Press Enter</h3>
+            <div id="input"  > 
+                 <input id="input" value={this.state.result} onChange={this.handleChange} /> 
                 {/* load trending results */}
                  <button onClick={this.search}> Enter</button>    
                  <h5>List of Search Results: </h5>
